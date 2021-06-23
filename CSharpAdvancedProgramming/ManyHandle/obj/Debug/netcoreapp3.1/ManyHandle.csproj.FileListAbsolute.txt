@@ -1,0 +1,13 @@
+C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\ManyHandle\bin\Debug\netcoreapp3.1\ManyHandle.exe
+C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\ManyHandle\bin\Debug\netcoreapp3.1\ManyHandle.deps.json
+C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\ManyHandle\bin\Debug\netcoreapp3.1\ManyHandle.runtimeconfig.json
+C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\ManyHandle\bin\Debug\netcoreapp3.1\ManyHandle.runtimeconfig.dev.json
+C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\ManyHandle\bin\Debug\netcoreapp3.1\ManyHandle.dll
+C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\ManyHandle\bin\Debug\netcoreapp3.1\ManyHandle.pdb
+C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\ManyHandle\obj\Debug\netcoreapp3.1\ManyHandle.csprojAssemblyReference.cache
+C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\ManyHandle\obj\Debug\netcoreapp3.1\ManyHandle.AssemblyInfoInputs.cache
+C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\ManyHandle\obj\Debug\netcoreapp3.1\ManyHandle.AssemblyInfo.cs
+C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\ManyHandle\obj\Debug\netcoreapp3.1\ManyHandle.csproj.CoreCompileInputs.cache
+C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\ManyHandle\obj\Debug\netcoreapp3.1\ManyHandle.dll
+C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\ManyHandle\obj\Debug\netcoreapp3.1\ManyHandle.pdb
+C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\ManyHandle\obj\Debug\netcoreapp3.1\ManyHandle.genruntimeconfig.cache
