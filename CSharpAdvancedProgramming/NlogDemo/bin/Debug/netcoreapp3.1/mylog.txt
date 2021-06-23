@@ -1,0 +1,2 @@
+2021-06-07 14:22:37.4795|INFO|NlogDemo.Program|Hello World 
+2021-06-07 14:22:37.5316|WARN|NlogDemo.Program|this a warn message
