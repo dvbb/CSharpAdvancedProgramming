@@ -24,3 +24,16 @@ C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\MyException\obj\Debug\
 C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\MyException\obj\Debug\netcoreapp3.1\MyException.dll
 C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\MyException\obj\Debug\netcoreapp3.1\MyException.pdb
 C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\MyException\obj\Debug\netcoreapp3.1\MyException.genruntimeconfig.cache
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyException\bin\Debug\netcoreapp3.1\MyException.exe
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyException\bin\Debug\netcoreapp3.1\MyException.deps.json
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyException\bin\Debug\netcoreapp3.1\MyException.runtimeconfig.json
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyException\bin\Debug\netcoreapp3.1\MyException.runtimeconfig.dev.json
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyException\bin\Debug\netcoreapp3.1\MyException.dll
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyException\bin\Debug\netcoreapp3.1\MyException.pdb
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyException\obj\Debug\netcoreapp3.1\MyException.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyException\obj\Debug\netcoreapp3.1\MyException.AssemblyInfoInputs.cache
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyException\obj\Debug\netcoreapp3.1\MyException.AssemblyInfo.cs
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyException\obj\Debug\netcoreapp3.1\MyException.csproj.CoreCompileInputs.cache
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyException\obj\Debug\netcoreapp3.1\MyException.dll
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyException\obj\Debug\netcoreapp3.1\MyException.pdb
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyException\obj\Debug\netcoreapp3.1\MyException.genruntimeconfig.cache

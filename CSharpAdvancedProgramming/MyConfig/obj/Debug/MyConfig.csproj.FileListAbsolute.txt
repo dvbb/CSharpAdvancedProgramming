@@ -12,3 +12,10 @@ C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\MyConfig\obj\Debug\MyC
 C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\MyConfig\obj\Debug\MyConfig.csproj.CoreCompileInputs.cache
 C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\MyConfig\obj\Debug\MyConfig.dll
 C:\Users\eric.ruan\source\repos\CsharpAdvancedProgramming\MyConfig\obj\Debug\MyConfig.pdb
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyConfig\bin\Debug\MyConfig.dll.config
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyConfig\bin\Debug\MyConfig.dll
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyConfig\bin\Debug\MyConfig.pdb
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyConfig\obj\Debug\MyConfig.csproj.AssemblyReference.cache
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyConfig\obj\Debug\MyConfig.csproj.CoreCompileInputs.cache
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyConfig\obj\Debug\MyConfig.dll
+D:\repo\dvbb\CSharpAdvancedProgramming\CSharpAdvancedProgramming\MyConfig\obj\Debug\MyConfig.pdb

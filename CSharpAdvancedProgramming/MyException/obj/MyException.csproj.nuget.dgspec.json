@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eric.ruan\\source\\repos\\CsharpAdvancedProgramming\\MyException\\MyException.csproj": {}
+    "D:\\repo\\dvbb\\CSharpAdvancedProgramming\\CSharpAdvancedProgramming\\MyException\\MyException.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eric.ruan\\source\\repos\\CsharpAdvancedProgramming\\MyException\\MyException.csproj": {
+    "D:\\repo\\dvbb\\CSharpAdvancedProgramming\\CSharpAdvancedProgramming\\MyException\\MyException.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eric.ruan\\source\\repos\\CsharpAdvancedProgramming\\MyException\\MyException.csproj",
+        "projectUniqueName": "D:\\repo\\dvbb\\CSharpAdvancedProgramming\\CSharpAdvancedProgramming\\MyException\\MyException.csproj",
         "projectName": "MyException",
-        "projectPath": "C:\\Users\\eric.ruan\\source\\repos\\CsharpAdvancedProgramming\\MyException\\MyException.csproj",
-        "packagesPath": "C:\\Users\\eric.ruan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eric.ruan\\source\\repos\\CsharpAdvancedProgramming\\MyException\\obj\\",
+        "projectPath": "D:\\repo\\dvbb\\CSharpAdvancedProgramming\\CSharpAdvancedProgramming\\MyException\\MyException.csproj",
+        "packagesPath": "C:\\Users\\v-cruan\\.nuget\\packages\\",
+        "outputPath": "D:\\repo\\dvbb\\CSharpAdvancedProgramming\\CSharpAdvancedProgramming\\MyException\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\eric.ruan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\v-cruan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,8 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://artifactory/artifactory/api/nuget/GD_Common": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -58,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
