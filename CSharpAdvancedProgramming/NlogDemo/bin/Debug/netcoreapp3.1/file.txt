@@ -1,9 +1,0 @@
-2021-05-26 13:17:30.4075|INFO|NlogDemo.Program|Hello World DVBB
-2021-05-26 13:25:38.3195|INFO|NlogDemo.Program|Hello World DVBB
-2021-05-26 13:25:38.3656|WARN|NlogDemo.Program|this a warn message
-2021-06-07 13:22:21.4377|INFO|NlogDemo.Program|Hello World 
-2021-06-07 13:22:21.4881|WARN|NlogDemo.Program|this a warn message
-2021-06-07 13:57:08.1603|INFO|NlogDemo.Program|Hello World 
-2021-06-07 13:57:08.2024|WARN|NlogDemo.Program|this a warn message
-2021-06-07 13:58:57.2209|INFO|NlogDemo.Program|Hello World 
-2021-06-07 13:58:58.1972|WARN|NlogDemo.Program|this a warn message

@@ -1,8 +1,0 @@
-2021-06-08 14:44:32.2579|INFO|RabbitMqConsumer.Program|RabbitMq Started.
-2021-06-08 14:44:32.5765|INFO|RabbitMqConsumer.Program|consumer 01 receive : message-45
-2021-06-08 14:44:41.0108|WARN|RabbitMqConsumer.Program|Connection to RabbitMQ lost.
-2021-06-08 14:44:55.0458|WARN|RabbitMqConsumer.Program|Error reconnecting to RabbitMQ.  [trycount] = 1
-2021-06-08 14:45:09.0720|WARN|RabbitMqConsumer.Program|Error reconnecting to RabbitMQ.  [trycount] = 2
-2021-06-08 14:45:23.1022|WARN|RabbitMqConsumer.Program|Error reconnecting to RabbitMQ.  [trycount] = 3
-2021-06-08 14:45:33.1385|INFO|RabbitMqConsumer.Program|Connection to RabbitMQ reestablished.
-2021-06-08 14:45:50.8748|INFO|RabbitMqConsumer.Program|consumer 01 receive : message-4
